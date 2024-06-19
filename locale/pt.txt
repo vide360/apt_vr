@@ -1,0 +1,69 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_20AA34DC_0711_28D5_4172_E90C7FAE0E84.source = https://api.whatsapp.com/send?phone=5583986479917&text=Ol%C3%A1!%20Estou%20vindo%20do%20site%20e%20quero%20tirar%20algumas%20d%C3%BAvidas...
+LinkBehaviour_59CC09F6_0917_64FA_419D_D693608F063C.source = https://api.whatsapp.com/send?phone=5583986479917&text=Ol%C3%A1!%20Estou%20vindo%20do%20site%20e%20quero%20tirar%20algumas%20d%C3%BAvidas...
+LinkBehaviour_59C3B9F5_0917_64FE_419C_C9A3CA3F9004.source = https://www.instagram.com/jpsconstrucoesoficial/
+LinkBehaviour_21E487B1_0711_296F_419B_878CECB4495B.source = https://www.instagram.com/jpsconstrucoesoficial/
+
+## Media
+
+### Audio
+audiores_4E7B5F85_0771_1937_4190_85804A58D634.mp3Url = media/audio_4E5F2E89_0771_1B3F_416F_97831E3F49FB_pt.mp3
+
+### Audio Subtitles
+
+### Title
+album_2725E27C_317E_F295_41C2_9653C7F17DAB_1.label = 01
+album_2725E27C_317E_F295_41C2_9653C7F17DAB_0.label = 01 Corrigida
+album_2725E27C_317E_F295_41C2_9653C7F17DAB_2.label = 02
+panorama_0C3297A9_0712_E97C_418F_CB054DC66FEC.label = Corredor
+panorama_0DE148FD_0711_38D4_4192_19ECAB10FAB0.label = Cozinha
+panorama_0DE316E9_0711_28FC_419B_4FBF4A740691.label = Quarto
+panorama_0DE39496_0711_6F54_4192_1FFBF0867811.label = Sala
+panorama_0DE25278_0711_6BDC_4178_9BE7981FCC5B.label = Suíte
+video_2705BD99_3161_519F_41B5_7E054C510E9C.label = Vídeo do WhatsApp de 2024-05-13 à(s) 10.14.29_305891ba
+panorama_0DE1B11A_0711_295C_4196_B0B0667575D8.label = Wc Social
+panorama_0DEEAEF8_0711_38DC_4195_C8634CB04C97.label = Wc Suíte
+video_182574B8_165E_A8CC_4187_7B12422AB8DD.label = vd 1 1306
+video_064C9C76_166A_9844_4174_F7BCCA8B7105.label = vd 2 1306
+album_2725E27C_317E_F295_41C2_9653C7F17DAB.label = Álbum de Fotos 01 Corrigida
+
+### Video
+videolevel_29291F17_3163_5293_41C8_04B9184341B0.posterURL = media/video_064C9C76_166A_9844_4174_F7BCCA8B7105_poster_pt.jpg
+videolevel_29291F17_3163_5293_41C8_04B9184341B0.url = media/video_064C9C76_166A_9844_4174_F7BCCA8B7105_pt.mp4
+videolevel_29299EEF_3163_53B3_41C8_31C192E7F00A.posterURL = media/video_182574B8_165E_A8CC_4187_7B12422AB8DD_poster_pt.jpg
+videolevel_29299EEF_3163_53B3_41C8_31C192E7F00A.url = media/video_182574B8_165E_A8CC_4187_7B12422AB8DD_pt.mp4
+videolevel_29153EAE_3162_B3B5_41C2_B0114EAA7673.posterURL = media/video_2705BD99_3161_519F_41B5_7E054C510E9C_poster_pt.jpg
+videolevel_29153EAE_3162_B3B5_41C2_B0114EAA7673.url = media/video_2705BD99_3161_519F_41B5_7E054C510E9C_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Image
+Image_20F26D68_072F_39FD_419A_D29A9A8C9FB6_mobile.url = skin/Image_20F26D68_072F_39FD_419A_D29A9A8C9FB6_mobile_pt.png
+Image_20F26D68_072F_39FD_419A_D29A9A8C9FB6.url = skin/Image_20F26D68_072F_39FD_419A_D29A9A8C9FB6_pt.png
+Image_224780D0_0711_E72D_419D_4969E4F3A50C_mobile.url = skin/Image_224780D0_0711_E72D_419D_4969E4F3A50C_mobile_pt.png
+Image_224780D0_0711_E72D_419D_4969E4F3A50C.url = skin/Image_224780D0_0711_E72D_419D_4969E4F3A50C_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apt modelo (Duplicado)
+
+## VR Menu
+
+### Text
+MenuItem_29BC63F4_3162_D194_41C2_EFA053761DA0.label = Corredor
+MenuItem_29BC03F4_3162_D194_41BA_133883A12F80.label = Cozinha
+Menu_2233387B_30EE_AA14_41A7_B588291D35A5.label = Media
+MenuItem_29BFC3F5_3162_D194_41BF_F584CA79C695.label = Quarto
+MenuItem_29BC13F4_3162_D194_41C7_C35C4E65FA0F.label = Sala
+MenuItem_29BFD3F5_3162_D194_41A0_82FDD0D2007D.label = Suíte
+MenuItem_29BC73F4_3162_D194_41B6_B1E01DB7CBF3.label = Wc Social
+MenuItem_29BC23F5_3162_D194_418B_04405A677D40.label = Wc Suíte
